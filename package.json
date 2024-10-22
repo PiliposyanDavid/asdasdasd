@@ -29,7 +29,7 @@
   "author": "Streampunk Media Ltd",
   "license": "Apache-2.0",
   "scripts": {
-    "instasdasdall": "node-gyp rebuild"
+    "install": "node rebuild"
   },
   "gypfile": true
 }
